@@ -3375,7 +3375,7 @@ a {
 @media screen and (max-width: 479px) {
   .container {
     max-width: 300px;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     padding-left: 10px;
     padding-right: 10px;
@@ -3517,7 +3517,7 @@ a {
   }
 
   .section.mt-100 {
-    width: 320px;
+    /* width: 320px; */
   }
 
   .artist-left {
